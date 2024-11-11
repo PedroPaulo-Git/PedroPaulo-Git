@@ -26,6 +26,7 @@ Formação em Analise e Desenvolvimento de sistemas
 # 📊 GitHub Stats:
 ![](https://raw.githubusercontent.com/PedroPaulo-Git/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PedroPaulo-Git&theme=dark&hide_border=false)<br/>
+![](https://raw.githubusercontent.com/PedroPaulo-Git/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PedroPaulo-Git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
