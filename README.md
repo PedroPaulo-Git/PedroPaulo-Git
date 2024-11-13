@@ -28,7 +28,7 @@ Formação em Analise e Desenvolvimento de sistemas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaulo-Git&layout=donut&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PedroPaulo-Git&theme=dark&hide_border=false)<br/>
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=PedroPaulo-Git&theme=dark)](https://git.io/streak-stats)-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=PedroPaulo-Git&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=PedroPaulo-Git&theme=dark&locale=pt_BR)](https://git.io/streak-stats)-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PedroPaulo-Git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
