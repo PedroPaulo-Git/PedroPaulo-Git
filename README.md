@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=PedroPaulo-Git&theme=dark&hide_border=false)<br/>-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=PedroPaulo-Git&theme=dark)](https://git.io/streak-stats)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=PedroPaulo-Git&theme=dark&locale=pt_BR)](https://git.io/streak-stats)-->
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PedroPaulo-Git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=PedroPaulo-Git&icon=0&color=0)](https://visitcount.itsvg.in)
 
