@@ -1,50 +1,72 @@
+<div align="center">
+  <img height="180" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DF1E&width=435&lines=Pedro+Paulo;Full+Stack+Developer;Python+%26+RPA+Specialist;Next.js+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
+  
+  <h1>Olá, eu sou o Pedro! 👋</h1>
+  
+  <p>
+    <b>Desenvolvedor Full Stack & Especialista em Automação (RPA)</b><br/>
+    Focado em performance, SEO e redução de trabalho manual através de código.
+  </p>
 
-<!--
-**PedroPaulo-Git/PedroPaulo-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://pedrodevofc.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Me-3178C6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/pedro-paulodev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pedrodevofc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-***Formação em Analise e Desenvolvimento de sistemas*** 
+### 👨‍💻 Sobre Mim
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pedrodevofc/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-paulodev/)
-[![Repository](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=linkedin&logoColor=white)](https://pedrodevofc.vercel.app/)
+Sou um desenvolvedor apaixonado por **arquitetura de software** e **automação**. Tenho experiência sólida construindo aplicações web de ponta a ponta e criando robôs (RPA) para otimizar processos de negócios.
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+* [cite_start]🔭 **Atualmente:** Desenvolvendo soluções Full Stack autônomas e integrações de API **[cite: 13, 16]**.
+* [cite_start]🤖 **Diferencial:** Experiência real com **Python RPA** (Playwright, N8n) reduzindo retrabalho manual em empresas **[cite: 21, 25]**.
+* [cite_start]☁️ **Cloud:** Deploy e CI/CD em ambientes **AWS** e **Azure** **[cite: 39]**.
+* [cite_start]🎓 **Formação:** Análise e Desenvolvimento de Sistemas (UNINASSAU) **[cite: 32]**.
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)  
-
-
-# 📊 GitHub Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaulo-Git&layout=donut&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)<br/>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=PedroPaulo-Git&theme=dark&hide_border=false)<br/>-->
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=PedroPaulo-Git&theme=dark)](https://git.io/streak-stats)-->
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=PedroPaulo-Git&theme=dark&locale=pt_BR)](https://git.io/streak-stats)-->
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PedroPaulo-Git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
--->
 ---
-[![](https://visitcount.itsvg.in/api?id=PedroPaulo-Git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
 
+<div align="center">
+
+| **Frontend** | **Backend & Database** | **DevOps & RPA** |
+| :---: | :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,prisma,supabase&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,selenium&perline=3" /></a> |
+
+</div>
+
+> [cite_start]**Outras ferramentas:** N8n, Playwright, Cypress, JWT, Stripe/Mercado Pago **[cite: 6, 8, 14, 26]**.
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Stack | Detalhes |
+| :--- | :--- | :--- |
+| **Brasil Barbearias** | `Next.js` `Tailwind` `Supabase` | [cite_start]Plataforma SaaS completa com agendamento e integração de pagamentos (Mercado Pago) **[cite: 43]**. |
+| **RPA Jurídico** | `Python` `N8n` `Playwright` | [cite_start]Automação para escritório de advocacia: scraping de dados, geração dinâmica de HTML e orquestração de fluxo **[cite: 23, 26]**. |
+| **Ideal Restaurante** | `React` `Node.js` `Stripe` | [cite_start]Sistema de gestão com Dashboard administrativo e CRUD completo **[cite: 44]**. |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=PedroPaulo-Git&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=999" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaulo-Git&layout=compact&theme=transparent&hide_border=true&title_color=3178C6&text_color=999" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:000000&height=100&section=footer" width="100%"/>
+</div>
