@@ -30,7 +30,7 @@ Tenho experiência sólida na arquitetura de soluções web de ponta a ponta e p
 * 🤖 **RPA & Automação:** Especialista em criar robôs com **Python**, **Playwright** e **N8n** para web scraping e orquestração de tarefas complexas.
 * 💻 **Full Stack:** Domínio de **React/Next.js** no front-end e **Node.js/Express** no back-end, com bancos **PostgreSQL**.
 * ☁️ **DevOps:** Experiência com pipelines CI/CD, Docker e deploy em nuvem (**AWS** e **Azure**).
-* 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
+* 🎓 **Formação:** Faculdade de Análise e Desenvolvimento de Sistemas.
 
 ---
 
