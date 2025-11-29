@@ -1,15 +1,17 @@
 <div align="center">
-  <img height="180" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DF1E&width=435&lines=Pedro+Paulo;Full+Stack+Developer;Python+%26+RPA+Specialist;Next.js+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
+ <center>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=white&width=435&lines=Pedro+Paulo;Full+Stack+Developer;Python+%26+RPA+Specialist;Next.js+%7C+Node.js+%7C+PostgreSQL&center=true&vCenter=true" alt="Typing SVG" />
+  </center>
   
   <h1>Olá, eu sou o Pedro! 👋</h1>
   
   <p>
     <b>Desenvolvedor Full Stack & Especialista em Automação (RPA)</b><br/>
-    Focado em performance, SEO e redução de trabalho manual através de código.
+    Transformo processos manuais em código e construo aplicações web escaláveis.
   </p>
 
-  <a href="https://pedrodevofc.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Me-3178C6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <a href="https://pedrodevofc.vercel.app/" style="gap-10">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Me-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/pedro-paulodev/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -21,14 +23,13 @@
 
 <br />
 
-### 👨‍💻 Sobre Mim
+### ⚡ Sobre Mim
 
-Sou um desenvolvedor apaixonado por **arquitetura de software** e **automação**. Tenho experiência sólida construindo aplicações web de ponta a ponta e criando robôs (RPA) para otimizar processos de negócios.
+Tenho experiência sólida na arquitetura de soluções web de ponta a ponta e projetos de automação. Meu foco atual é eliminar retrabalho manual em empresas usando Python e RPA.
 
-* [cite_start]🔭 **Atualmente:** Desenvolvendo soluções Full Stack autônomas e integrações de API **[cite: 13, 16]**.
-* [cite_start]🤖 **Diferencial:** Experiência real com **Python RPA** (Playwright, N8n) reduzindo retrabalho manual em empresas **[cite: 21, 25]**.
-* [cite_start]☁️ **Cloud:** Deploy e CI/CD em ambientes **AWS** e **Azure** **[cite: 39]**.
-* [cite_start]🎓 **Formação:** Análise e Desenvolvimento de Sistemas (UNINASSAU) **[cite: 32]**.
+* 🤖 **RPA & Automação:** Especialista em criar robôs com **Python**, **Playwright** e **N8n** para web scraping e orquestração de tarefas complexas.
+* 💻 **Full Stack:** Domínio de **React/Next.js** no front-end e **Node.js/Express** no back-end, com bancos **PostgreSQL**.
+* ☁️ **DevOps:** Experiência com pipelines CI/CD, Docker e deploy em nuvem (**AWS** e **Azure**).
 
 ---
 
@@ -36,37 +37,35 @@ Sou um desenvolvedor apaixonado por **arquitetura de software** e **automação*
 
 <div align="center">
 
-| **Frontend** | **Backend & Database** | **DevOps & RPA** |
+| **Frontend** | **Backend** | **RPA & Tools** |
 | :---: | :---: | :---: |
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,prisma,supabase&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,selenium&perline=3" /></a> |
 
 </div>
 
-> [cite_start]**Outras ferramentas:** N8n, Playwright, Cypress, JWT, Stripe/Mercado Pago **[cite: 6, 8, 14, 26]**.
-
 ---
 
 ### 🚀 Projetos em Destaque
 
-| Projeto | Stack | Detalhes |
+| Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| **Brasil Barbearias** | `Next.js` `Tailwind` `Supabase` | [cite_start]Plataforma SaaS completa com agendamento e integração de pagamentos (Mercado Pago) **[cite: 43]**. |
-| **RPA Jurídico** | `Python` `N8n` `Playwright` | [cite_start]Automação para escritório de advocacia: scraping de dados, geração dinâmica de HTML e orquestração de fluxo **[cite: 23, 26]**. |
-| **Ideal Restaurante** | `React` `Node.js` `Stripe` | [cite_start]Sistema de gestão com Dashboard administrativo e CRUD completo **[cite: 44]**. |
+| **Brasil Barbearias** | `Next.js` `Supabase` `Mercado Pago` | SaaS completo para gestão de barbearias com agendamento e pagamentos integrados. |
+| **RPA Jurídico** | `Python` `N8n` `Playwright` | Automação que realiza scraping de sites jurídicos e gera relatórios HTML dinâmicos, reduzindo trabalho manual. |
+| **Ideal Restaurante** | `React` `Node.js` `Stripe` | Plataforma de gestão para restaurantes com dashboard administrativo e controle de pedidos. |
 
 ---
 
-### 📊 GitHub Stats
+| **Frontend** | **Backend** | **RPA & Tools** |
+| :---: | :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,prisma,supabase&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,selenium&perline=3" /></a> |
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=PedroPaulo-Git&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=999" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaulo-Git&layout=compact&theme=transparent&hide_border=true&title_color=3178C6&text_color=999" />
-  </a>
-</div>
+ <center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaulo-Git&layout=donut&bg_color=00000000"/>
+ </center>
+ </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,100:44475A&height=100&section=footer" width="100%"/>
 </div>
+
