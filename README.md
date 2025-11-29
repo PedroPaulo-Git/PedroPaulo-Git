@@ -55,17 +55,18 @@ Tenho experiência sólida na arquitetura de soluções web de ponta a ponta e p
 
 ---
 
-| **Frontend** | **Backend** | **RPA & Tools** |
-| :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,prisma,supabase&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,selenium&perline=3" /></a> |
-
 <div align="center">
  <center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaulo-Git&layout=donut&bg_color=00000000"/>
  </center>
+
+
  </div>
+ 
 
 <div align="center">
+ 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,100:44475A&height=100&section=footer" width="100%"/>
+  
 </div>
 
