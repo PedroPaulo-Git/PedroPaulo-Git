@@ -56,12 +56,6 @@ Tenho experiência sólida na arquitetura de soluções web de ponta a ponta e p
 
 ---
 
-<div align="center">
- <center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaulo-Git&layout=donut&bg_color=00000000"/>
- </center>
-
-
  </div>
  
 
